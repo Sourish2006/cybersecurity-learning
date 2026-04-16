@@ -9,3 +9,4 @@
 ## Day 4
 - Learned OSI model (7 layers)
 - Understood TCP vs UDP basics
+- Completed TryHackMe "How the Web Works"
