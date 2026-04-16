@@ -5,3 +5,7 @@
 ## Day 3
 - Learned about IP address and ports
 - Completed TryHackMe "What is Networking" room
+
+## Day 4
+- Learned OSI model (7 layers)
+- Understood TCP vs UDP basics
