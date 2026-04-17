@@ -10,3 +10,9 @@
 - Learned OSI model (7 layers)
 - Understood TCP vs UDP basics
 - Completed TryHackMe "How the Web Works"
+
+  ## Day 5
+- Learned DNS basics
+- Understood HTTP & HTTPS
+- Practiced networking tools (ping, traceroute)
+- Completed TryHackMe "How the Web Works"
