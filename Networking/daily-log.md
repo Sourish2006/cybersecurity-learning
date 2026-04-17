@@ -15,4 +15,4 @@
 - Learned DNS basics
 - Understood HTTP & HTTPS
 - Practiced networking tools (ping, traceroute)
-- Completed TryHackMe "How the Web Works"
+- Completed TryHackMe "DNS in Detail" room
