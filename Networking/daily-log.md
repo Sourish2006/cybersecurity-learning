@@ -20,3 +20,8 @@
 - Understood HTTP & HTTPS
 - Practiced networking tools (ping, traceroute)
 - Completed TryHackMe "DNS in Detail" room
+
+## Day 6
+- Learned HTTP/HTTPS concepts
+- Understood request & response model
+- Completed TryHackMe "HTTP in Detail" room
