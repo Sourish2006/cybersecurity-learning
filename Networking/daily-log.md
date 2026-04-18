@@ -25,3 +25,5 @@
 - Learned HTTP/HTTPS concepts
 - Understood request & response model
 - Completed TryHackMe "HTTP in Detail" room
+- Learned about routers
+- Understood how data is routed between networks
