@@ -27,3 +27,8 @@
 - Completed TryHackMe "HTTP in Detail" room
 - Learned about routers
 - Understood how data is routed between networks
+
+  ## Day 7
+- Learned HTTP request & response concept
+- Understood client-server communication
+- Started TryHackMe Computer Fundamentals Module 4
