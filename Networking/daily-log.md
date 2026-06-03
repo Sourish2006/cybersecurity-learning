@@ -32,3 +32,18 @@
 - Learned HTTP request & response concept
 - Understood client-server communication
 - Started TryHackMe Computer Fundamentals Module 4
+
+ ## Day 8
+- Learned DHCP (Dynamic Host Configuration Protocol) concepts
+- Understood the purpose of DHCP in computer networks
+- Learned DHCP DORA process: Discover, Offer, Request, Acknowledge
+- Understood how devices automatically obtain IP addresses
+- Learned about DHCP server and DHCP client
+- Learned DHCP ports: UDP 67 (server) and UDP 68 (client)
+- Understood the role of subnet mask, default gateway and DNS server in DHCP configuration
+- Learned the difference between dynamic IP address assignment and static IP address assignment
+- Understood lease time and IP address renewal process
+- Learned how DHCP simplifies network administration
+
+
+  
