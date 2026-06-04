@@ -45,5 +45,16 @@
 - Understood lease time and IP address renewal process
 - Learned how DHCP simplifies network administration
 
+## Day 9
+- Learned NAT (Network Address Translation) concepts
+- Understood the purpose of NAT in computer networks
+- Learned the difference between public and private IP addresses
+- Understood how NAT helps conserve IPv4 addresses
+- Learned how multiple devices can share a single public IP address
+- Explored Static NAT, Dynamic NAT and PAT (Port Address Translation)
+- Understood the role of NAT in enabling internet access for private networks
+- Learned how routers perform address translation
+- Understood the importance of NAT for security and efficient IP address utilization
+- Explored real-world examples of NAT usage in home and enterprise networks
 
   
