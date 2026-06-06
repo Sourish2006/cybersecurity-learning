@@ -57,4 +57,15 @@
 - Understood the importance of NAT for security and efficient IP address utilization
 - Explored real-world examples of NAT usage in home and enterprise networks
 
-  
+  ## Day 10
+
+- Learned ARP (Address Resolution Protocol) concepts
+- Understood the purpose of ARP in computer networks
+- Learned how ARP maps IP addresses to MAC addresses
+- Understood the communication process between devices in a local network
+- Learned about ARP Request and ARP Reply messages
+- Understood how devices discover the MAC address of a destination host
+- Learned about the ARP cache and its importance
+- Explored the role of ARP in Ethernet networks
+- Understood the relationship between IP addresses and MAC addresses
+- Learned how ARP enables successful data transmission within a LAN
