@@ -69,3 +69,16 @@
 - Explored the role of ARP in Ethernet networks
 - Understood the relationship between IP addresses and MAC addresses
 - Learned how ARP enables successful data transmission within a LAN
+
+## Day 11
+
+- Learned ICMP (Internet Control Message Protocol) concepts
+- Understood the purpose of ICMP in computer networks
+- Learned how ICMP is used for error reporting and diagnostics
+- Understood how the Ping utility works
+- Explored ICMP Echo Request and Echo Reply messages
+- Learned how Ping helps verify network connectivity
+- Understood common ICMP message types
+- Explored the role of ICMP in troubleshooting network issues
+- Learned how packet loss and response time are measured
+- Understood the importance of ICMP in network communication
