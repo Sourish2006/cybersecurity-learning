@@ -82,3 +82,15 @@
 - Explored the role of ICMP in troubleshooting network issues
 - Learned how packet loss and response time are measured
 - Understood the importance of ICMP in network communication
+
+  ## Day 12
+- Learned Firewall concepts
+- Understood the purpose of firewalls in network security
+- Learned how firewalls monitor and filter network traffic
+- Explored inbound and outbound traffic filtering
+- Understood packet filtering and access control rules
+- Learned about different types of firewalls
+- Explored Stateful and Stateless firewalls
+- Understood the role of firewalls in protecting networks from unauthorized access
+- Learned how firewalls help enforce security policies
+- Explored real-world applications of firewalls in home and enterprise networks
