@@ -94,3 +94,15 @@
 - Understood the role of firewalls in protecting networks from unauthorized access
 - Learned how firewalls help enforce security policies
 - Explored real-world applications of firewalls in home and enterprise networks
+
+  ## Day 14
+- Learned Subnetting concepts
+- Understood the purpose of subnetting in computer networks
+- Learned how subnetting divides a network into smaller subnetworks
+- Understood the difference between network ID and host ID
+- Explored subnet masks and CIDR notation
+- Learned common subnet masks such as /24, /16 and /8
+- Understood the benefits of subnetting for network organization and security
+- Learned how subnetting improves IP address utilization
+- Explored real-world applications of subnetting in enterprise networks
+- Understood the importance of subnetting in network administration
