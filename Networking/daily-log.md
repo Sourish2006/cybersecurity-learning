@@ -95,7 +95,7 @@
 - Learned how firewalls help enforce security policies
 - Explored real-world applications of firewalls in home and enterprise networks
 
-  ## Day 14
+  ## Day 13
 - Learned Subnetting concepts
 - Understood the purpose of subnetting in computer networks
 - Learned how subnetting divides a network into smaller subnetworks
