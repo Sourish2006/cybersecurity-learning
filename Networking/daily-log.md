@@ -107,7 +107,7 @@
 - Explored real-world applications of subnetting in enterprise networks
 - Understood the importance of subnetting in network administration
 
-## Day 15
+## Day 14
 - Learned Routing concepts
 - Understood the purpose of routing in computer networks
 - Learned how routers forward packets between different networks
