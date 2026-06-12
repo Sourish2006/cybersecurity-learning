@@ -118,3 +118,16 @@
 - Understood the role of routers in internetwork communication
 - Learned how routing enables communication across multiple networks
 - Explored real-world applications of routing in enterprise and Internet networks
+
+  ## Day 15
+
+- Learned Switching concepts
+- Understood the role of switches in local area networks (LANs)
+- Learned how switches forward frames using MAC addresses
+- Explored MAC address tables and switching decisions
+- Understood collision domains and broadcast domains
+- Learned the difference between switches and hubs
+- Explored Layer 2 switching concepts
+- Understood how switches improve network efficiency
+- Learned about managed and unmanaged switches
+- Explored real-world applications of switching in enterprise networks
