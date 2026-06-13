@@ -132,7 +132,7 @@
 - Learned about managed and unmanaged switches
 - Explored real-world applications of switching in enterprise networks
 
-  ## Day 17
+  ## Day 16
 
 - Learned VLAN (Virtual Local Area Network) concepts
 - Understood the purpose of VLANs in network segmentation
