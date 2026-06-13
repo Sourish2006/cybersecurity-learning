@@ -131,3 +131,16 @@
 - Understood how switches improve network efficiency
 - Learned about managed and unmanaged switches
 - Explored real-world applications of switching in enterprise networks
+
+  ## Day 17
+
+- Learned VLAN (Virtual Local Area Network) concepts
+- Understood the purpose of VLANs in network segmentation
+- Learned how VLANs divide a physical network into multiple logical networks
+- Explored VLAN IDs and VLAN membership
+- Understood the difference between access ports and trunk ports
+- Learned about inter-VLAN communication
+- Explored the advantages of VLANs in improving security and network management
+- Understood how VLANs reduce broadcast traffic
+- Learned about common VLAN applications in enterprise networks
+- Explored real-world use cases of VLANs
