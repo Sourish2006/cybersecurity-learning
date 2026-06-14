@@ -144,3 +144,16 @@
 - Understood how VLANs reduce broadcast traffic
 - Learned about common VLAN applications in enterprise networks
 - Explored real-world use cases of VLANs
+
+## Day 17
+
+- Learned TCP Three-Way Handshake concepts
+- Understood how TCP establishes reliable connections
+- Explored SYN, SYN-ACK and ACK packets
+- Learned the process of connection establishment
+- Understood the importance of sequence numbers and acknowledgments
+- Explored how TCP ensures reliable communication
+- Learned about connection-oriented communication
+- Understood the role of the three-way handshake in TCP connections
+- Explored real-world applications of TCP connection establishment
+- Learned the significance of the TCP handshake in network communication
