@@ -157,3 +157,16 @@
 - Understood the role of the three-way handshake in TCP connections
 - Explored real-world applications of TCP connection establishment
 - Learned the significance of the TCP handshake in network communication
+
+  ## Day 18
+
+- Learned FTP and SFTP concepts
+- Understood the purpose of file transfer protocols
+- Explored how FTP enables file sharing between systems
+- Learned about FTP control and data connections
+- Understood the security limitations of FTP
+- Explored SFTP and secure file transfer mechanisms
+- Learned the differences between FTP and SFTP
+- Understood the role of SSH in SFTP communication
+- Explored common use cases of file transfer protocols
+- Learned the importance of secure file transfer in modern networks
