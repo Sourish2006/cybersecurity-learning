@@ -170,3 +170,16 @@
 - Understood the role of SSH in SFTP communication
 - Explored common use cases of file transfer protocols
 - Learned the importance of secure file transfer in modern networks
+
+  ## Day 19
+
+- Learned SSH (Secure Shell) concepts
+- Understood the purpose of SSH in secure remote access
+- Explored how SSH encrypts communication between systems
+- Learned about SSH clients and servers
+- Understood authentication using passwords and SSH keys
+- Explored the default port used by SSH
+- Learned about public and private key pairs
+- Understood the advantages of SSH over insecure protocols
+- Explored common use cases of SSH in system administration
+- Learned the importance of SSH in cybersecurity and remote management
