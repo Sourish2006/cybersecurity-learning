@@ -183,3 +183,16 @@
 - Understood the advantages of SSH over insecure protocols
 - Explored common use cases of SSH in system administration
 - Learned the importance of SSH in cybersecurity and remote management
+
+  ## Day 20
+
+- Learned Email Protocol concepts
+- Understood how email communication works
+- Explored SMTP, POP3 and IMAP protocols
+- Learned the role of SMTP in sending emails
+- Understood how POP3 retrieves emails from mail servers
+- Explored how IMAP synchronizes emails across devices
+- Learned the default ports used by email protocols
+- Understood the differences between POP3 and IMAP
+- Explored real-world applications of email protocols
+- Learned the importance of email protocols in Internet communication
