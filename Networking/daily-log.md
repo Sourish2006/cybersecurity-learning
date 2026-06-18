@@ -208,4 +208,4 @@
 - Learned common VPN protocols
 - Understood real-world applications of VPN technology
 - Explored the advantages and limitations of VPNs
-- Learned the role of VPNs in cybersecurity
+- Learned the role of VPNs in cybersecurity.
